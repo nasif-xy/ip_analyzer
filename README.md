@@ -1,5 +1,6 @@
 📌 IP Analyzer (Python - Kali Linux)
 A simple yet practical Python tool for analyzing IPv4 addresses, built for networking and cybersecurity beginners. This script helps users quickly understand key properties of an IP address using Python’s built-in ipaddress module.
+
 🚀 Features
 🔍 Detects IP Class (A, B, C, D, E)
 🌐 Identifies Public vs Private IP
@@ -7,16 +8,17 @@ A simple yet practical Python tool for analyzing IPv4 addresses, built for netwo
 ⚠️ Checks IP Usability (usable, loopback, multicast, reserved, etc.)
 🧠 Beginner-friendly and easy to understand
 🛠️ Tech Stack
+
 Python 3
 Built-in ipaddress module
 Tested on Kali Linux
 ▶️ Usage
 Bash
 Copy code
-git clone https://github.com/your-username/ip-analyzer.git
+git clone https://github.com/nasif-xy/ip_nasif.git
 cd ip-analyzer
-python3 ip_analyzer.py
-🧪 Example
+python3 ip_nasif.py
+- Example
 Copy code
 
 Enter IP Address: 8.8.8.8
